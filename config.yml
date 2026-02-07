@@ -25,7 +25,7 @@ menu:
           url: https://substack.com/@danieliglesias
           weight: 5 
         - name: Freelance
-          url: https://www.upwork.com/freelancers/~01b1c8e5a9c0e7d2f4
+          url: https://www.upwork.com/freelancers/~01b3e7d16e0acf7c58
 
           weight: 6
 
@@ -70,7 +70,7 @@ params:
             - name: Blog
               url: https://substack.com/@danieliglesias
             - name: Freelance
-              url: https://www.upwork.com/freelancers/~01b1c8e5a9c0e7d2f4
+              url: https://www.upwork.com/freelancers/~01b3e7d16e0acf7c58
 
     socialIcons:
         - name: CV
@@ -90,7 +90,7 @@ params:
         - name: GitHub
           url: https://github.com/iglesias-daniel
         - name: UpWork
-          url: https://www.upwork.com/freelancers/~01b1c8e5a9c0e7d2f4
+          url: https://www.upwork.com/freelancers/~01b3e7d16e0acf7c58
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=es&user=-m1mpg8AAAAJ
         - name: ORCiD
