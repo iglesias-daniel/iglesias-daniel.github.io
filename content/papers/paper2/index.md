@@ -5,10 +5,10 @@ tags: ["energy harvesting","energy manager","IoT","precision livestock farming",
 author: ["Daniel Iglesias","Carlos Muñoz-Poblete"]
 description: "This paper was published in IEEE Internet of Things Journal in 2025." 
 summary: "This study introduces a reinforcement learning–based energy manager for wearable IoT devices with solar harvesting in Precision Livestock Farming, dynamically optimizing duty cycles, transmissions, and GPS usage." 
-# cover:
-#     image: "paper2.png"
-#     alt: "Energy Manager Based on Reinforcement Learning for a Low-Power IoT Collar Worn by Dairy Cows"
-#     relative: true
+cover:
+    image: "paper2.png"
+    alt: "Energy Manager Based on Reinforcement Learning for a Low-Power IoT Collar Worn by Dairy Cows"
+    relative: true
 editPost:
     URL: "https://ieee-iotj.org/"
     Text: "IEEE Internet of Things Journal"

@@ -5,10 +5,10 @@ tags: ["standardized dataset","behaviors","cattle","lameness","animal welfare","
 author: ["David Morales-Vargas","Miguel Guarda-Vera","Daniel Iglesias-Quilodrán","David Cancino-Baier","Carlos Muñoz-Poblete"]
 description: "This paper was published in Frontiers in Veterinary Science in 2025." 
 summary: "This study presents a publicly available dataset of 441 labeled dairy cow behaviors collected via IoT collars, including accelerometer and gyroscope data for lameness-related activity classification." 
-# cover:
-#     image: "paper3.png"
-#     alt: "A dataset for detecting walking, grazing, and resting behaviors in free-grazing cattle using IoT collar IMU signals"
-#     relative: true
+cover:
+    image: "paper3.png"
+    alt: "A dataset for detecting walking, grazing, and resting behaviors in free-grazing cattle using IoT collar IMU signals"
+    relative: true
 editPost:
     URL: "https://www.frontiersin.org/journals/veterinary-science"
     Text: "Frontiers in Veterinary Science"
