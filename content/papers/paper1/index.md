@@ -3,15 +3,15 @@ title: "Reinforcement Learning Applied in Energy Management in Wearable IoT with
 date: 2024-10-20
 tags: ["energy management","IoT","PPO","precision livestock farming","reinforcement learning","SAC","TD3","wearable"]
 author: ["Daniel Iglesias","Carlos Muñoz"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+description: "This conference paper was presented in 2024 IEEE International Conference on Automation 26th Congress of the Chilean Association of Automatic Control ICA ACCA 2024." 
+summary: "The study explores reinforcement learning algorithms for energy-efficient management in wearable IoT devices for Precision Livestock Farming." 
 cover:
     image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    alt: "[Conference] Reinforcement Learning Applied in Energy Management in Wearable IoT with Energy Harvesting"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    URL: "https://ieeexplore.ieee.org/xpl/conhome/10766451/proceeding"
+    Text: "2024 IEEE International Conference on Automation/XXVI Congress of the Chilean Association of Automatic Control (ICA-ACCA)"
 
 ---
 
@@ -24,7 +24,7 @@ In recent years, the application of the Internet of Things (IoT) in agriculture 
 ##### Links
 
 + [Paper](https://doi.org/10.1109/ica-acca62622.2024.10766823)
-
++ [Presentation (PDF)](presentation1.pdf)
 ---
 
 
