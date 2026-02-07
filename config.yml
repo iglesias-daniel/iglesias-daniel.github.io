@@ -14,16 +14,16 @@ menu:
     main:
         - name: Personal Projects
           url: personal-projects/
-          weight: 5 
+          weight: 2 
         - name: Industry Experience
           url: industry-work/
-          weight: 2
+          weight: 3
         - name: Papers
           url: papers/
-          weight: 3
+          weight: 4
         - name: Blog
           url: https://substack.com/@danieliglesias
-          weight: 4 
+          weight: 5 
         - name: Freelance
           url: https://www.upwork.com/freelancers/~01b1c8e5a9c0e7d2f4
 
