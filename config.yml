@@ -60,16 +60,14 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: Personal Projects
+              url: personal-projects/
+            - name: Industry Experience
+              url: industry-work/
             - name: Papers
               url: papers/
-            - name: Projects
-              url: projects/
-            - name: Courses
-              url: courses/
             - name: Blog
-              url: blog/
-            - name: Archive
-              url: archive/
+              url: https://substack.com/@danieliglesias
             - name: Freelance
               url: https://www.upwork.com/freelancers/~01b1c8e5a9c0e7d2f4
 
