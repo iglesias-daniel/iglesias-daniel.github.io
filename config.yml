@@ -84,11 +84,11 @@ params:
           url: https://calendar.app.google/RHcYcoHzz7F2usms7
         - name: Substack
           url: https://substack.com/@danieliglesias
-        - name: Reddit
+        - name: reddit
           url: https://www.reddit.com/user/Daniel_Iglesias/
         - name: Twitter
           url: https://x.com/DanielIglesiasQ
-        - name: LinkedIn
+        - name: linkedin
           url: https://www.linkedin.com/in/d-iglesias/
         - name: GitHub
           url: https://github.com/iglesias-daniel
@@ -96,14 +96,22 @@ params:
           url: https://www.upwork.com/freelancers/~01b1c8e5a9c0e7d2f4
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=es&user=-m1mpg8AAAAJ
-        - name: ORCID
+        - name: orcid
           url: https://orcid.org/0009-0005-8455-1727
-        - name: ResearchGate
+        - name: researchgate
           url: https://www.researchgate.net/profile/Daniel-Iglesias-16
         - name: IEEE Xplore
           url: https://ieeexplore.ieee.org/author/37086574630
-        - name: Steam
+        - name: goodreads
+          url: https://www.goodreads.com/user/show/40086181-daniel-iglesias
+        - name: steam
           url: https://steamcommunity.com/id/danielOfficialProfile/
+        - name: letterboxd
+          url: https://letterboxd.com/daex_/
+        - name: leetcode
+          url: https://leetcode.com/u/daniel-iglesias/
+
+
 
         
     assets:
