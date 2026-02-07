@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://danieliglesias.cl" 
+title: Daniel Iglesias
 theme: PaperMod
 
 enableInlineShortcodes: true
