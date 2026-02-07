@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement Learning Applied in Energy Management in Wearable IoT with Energy Harvesting" 
+title: "[Conference] Reinforcement Learning Applied in Energy Management in Wearable IoT with Energy Harvesting" 
 date: 2024-10-20
 tags: ["energy management","IoT","PPO","precision livestock farming","reinforcement learning","SAC","TD3","wearable"]
 author: ["Daniel Iglesias","Carlos Muñoz"]
