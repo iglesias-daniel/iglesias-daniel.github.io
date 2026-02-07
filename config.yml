@@ -29,8 +29,8 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Daniel Iglesias' research papers, projects, contact information, and curriculum vitae"
+    author: Daniel Iglesias
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -54,8 +54,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: MSc. Daniel Iglesias
+          subtitle: "I am a Researcher in the Universidad de La Frontera, Temuco, Chile. My research focuses on electronic engineering, Internet of Things, Aritificial Intelligence, and FPGAs."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -79,7 +79,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
+          url: mailto:d.iglesias01@ufromail.cl
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
         - name: Location
@@ -87,17 +87,15 @@ params:
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?hl=es&user=-m1mpg8AAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/iglesias-daniel
         - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://substack.com/@danieliglesias
         - name: YouTube
           url: https://www.youtube.com/@pmichaillat
         - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://x.com/DanielIglesiasQ
 
     assets:
         disableScrollBarStyle: true
