@@ -80,46 +80,32 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:d.iglesias01@ufromail.cl
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
         - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?hl=es&user=-m1mpg8AAAAJ
-        - name: GitHub
-          url: https://github.com/iglesias-daniel
+          url: https://calendar.app.google/RHcYcoHzz7F2usms7
         - name: Substack
           url: https://substack.com/@danieliglesias
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+        - name: Reddit
+          url: https://www.reddit.com/user/Daniel_Iglesias/
         - name: Twitter
           url: https://x.com/DanielIglesiasQ
-    
-    socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:d.iglesias01@ufromail.cl
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?hl=es&user=-m1mpg8AAAAJ
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/d-iglesias/
         - name: GitHub
           url: https://github.com/iglesias-daniel
-        - name: Substack
-          url: https://substack.com/@danieliglesias
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/DanielIglesiasQ
+        - name: UpWork
+          url: https://www.upwork.com/freelancers/~01b1c8e5a9c0e7d2f4
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?hl=es&user=-m1mpg8AAAAJ
+        - name: ORCID
+          url: https://orcid.org/0009-0005-8455-1727
+        - name: ResearchGate
+          url: https://www.researchgate.net/profile/Daniel-Iglesias-16
+        - name: IEEE Xplore
+          url: https://ieeexplore.ieee.org/author/37086574630
+        - name: Steam
+          url: https://steamcommunity.com/id/danielOfficialProfile/
 
-
+        
     assets:
         disableScrollBarStyle: true
     cover:
