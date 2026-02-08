@@ -85,10 +85,11 @@ params:
           url: https://github.com/iglesias-daniel
         - name: Leetcode
           url: https://leetcode.com/u/daniel-iglesias/
-        - name: Email
-          url: mailto:d.iglesias01@ufromail.cl
+        
     
     socialIconsAcademia:
+        - name: Email
+          url: mailto:d.iglesias01@ufromail.cl
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=es&user=-m1mpg8AAAAJ
         - name: ORCiD
