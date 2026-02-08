@@ -1,9 +1,9 @@
 ---
-title: "Creating an Open LoRaWAN Network" 
+title: "Monitoring Recycling Containers with Localization and an Alert System" 
 date: 2026-01-01
 tags: ["Romance languages","philology","irregular verbs","Portuguese","Italian","French","Spanish","simulations","dataset","python"]
-description: "Deployment of a LoRaWAN Gateway for public use with the support of Municipalidad de Temuco."
-summary: "Deployment of a LoRaWAN Gateway for public use with the support of Municipalidad de Temuco."
+description: "This dataset contains all irregular verbs in known Romance languages."
+summary: "Deployment of smart sensor nodes based on the Heltec CubeCell (ASR6502 + SX1262), integrating GPS, energy harvesting, LoRaWAN communication, and I2C ultrasonic sensors to monitor the fill levels of six recycling containers."
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
     Text: "GitHub repository"
