@@ -1,0 +1,28 @@
+.social-icons-grouped {
+    margin: 24px 0;
+}
+
+.social-group {
+    margin-bottom: 24px;
+}
+
+.social-group-title {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--primary);
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    text-align: left;
+}
+
+.social-icons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: left;
+}
+
+.social-icons a {
+    display: inline-flex;
+}

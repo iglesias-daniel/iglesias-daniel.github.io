@@ -1,0 +1,40 @@
+<div class="social-icons-grouped">
+    {{- if site.Params.socialIconsIndustria }}
+    <div class="social-group">
+        <h3 class="social-group-title">Industry</h3>  <!-- Cambio aquí -->
+        <div class="social-icons">
+        {{- range site.Params.socialIconsIndustria }}
+            <a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me" title="{{ (.title | default .name) | title }}">
+                {{ partial "svg.html" . }}
+            </a>
+        {{- end }}
+        </div>
+    </div>
+    {{- end }}
+
+    {{- if site.Params.socialIconsAcademia }}
+    <div class="social-group">
+        <h3 class="social-group-title">Academy</h3>  <!-- Ya está en inglés -->
+        <div class="social-icons">
+        {{- range site.Params.socialIconsAcademia }}
+            <a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me" title="{{ (.title | default .name) | title }}">
+                {{ partial "svg.html" . }}
+            </a>
+        {{- end }}
+        </div>
+    </div>
+    {{- end }}
+
+    {{- if site.Params.socialIconsPersonal }}
+    <div class="social-group">
+        <h3 class="social-group-title">Personal</h3>  <!-- Ya está en inglés -->
+        <div class="social-icons">
+        {{- range site.Params.socialIconsPersonal }}
+            <a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me" title="{{ (.title | default .name) | title }}">
+                {{ partial "svg.html" . }}
+            </a>
+        {{- end }}
+        </div>
+    </div>
+    {{- end }}
+</div>

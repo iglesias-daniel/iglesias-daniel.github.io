@@ -72,25 +72,23 @@ params:
             - name: Freelance
               url: https://www.upwork.com/freelancers/~01b3e7d16e0acf7c58
 
-    socialIcons:
+    socialIconsIndustria:
         - name: CV
           url: cv.pdf
-        - name: Email
-          url: mailto:d.iglesias01@ufromail.cl
         - name: Office Hours
           url: https://calendar.app.google/RHcYcoHzz7F2usms7
-        - name: Substack
-          url: https://substack.com/@danieliglesias
-        - name: Reddit
-          url: https://www.reddit.com/user/Daniel_Iglesias/
-        - name: Twitter
-          url: https://x.com/DanielIglesiasQ
+        - name: UpWork
+          url: https://www.upwork.com/freelancers/~01b3e7d16e0acf7c58
         - name: LinkedIn
           url: https://www.linkedin.com/in/d-iglesias/
         - name: GitHub
           url: https://github.com/iglesias-daniel
-        - name: UpWork
-          url: https://www.upwork.com/freelancers/~01b3e7d16e0acf7c58
+        - name: Leetcode
+          url: https://leetcode.com/u/daniel-iglesias/
+        - name: Email
+          url: mailto:d.iglesias01@ufromail.cl
+    
+    socialIconsAcademia:
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=es&user=-m1mpg8AAAAJ
         - name: ORCiD
@@ -99,15 +97,19 @@ params:
           url: https://www.researchgate.net/profile/Daniel-Iglesias-16
         - name: IEEE
           url: https://ieeexplore.ieee.org/author/37086574630
+    
+    socialIconsPersonal:
+        - name: Substack
+          url: https://substack.com/@danieliglesias
+        - name: Twitter
+          url: https://x.com/DanielIglesiasQ
         - name: Goodreads
           url: https://www.goodreads.com/user/show/40086181-daniel-iglesias
         - name: Steam
           url: https://steamcommunity.com/id/danielOfficialProfile/
         - name: Letterboxd
           url: https://letterboxd.com/daex_/
-        - name: Leetcode
-          url: https://leetcode.com/u/daniel-iglesias/
-
+        
     assets:
         disableScrollBarStyle: true
     cover:
