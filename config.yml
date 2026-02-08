@@ -56,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: MSc. Daniel Iglesias
-          subtitle: "I am a Researcher in the Universidad de La Frontera, Temuco, Chile. My research focuses on electronic engineering, Internet of Things, Aritificial Intelligence, and FPGAs."
+          subtitle: "I am a Researcher at the University of La Frontera, Temuco, Chile. My research focuses on electronic engineering, Internet of Things, Aritificial Intelligence, and FPGAs."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
