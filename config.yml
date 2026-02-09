@@ -104,6 +104,8 @@ params:
           url: https://substack.com/@danieliglesias
         - name: Twitter
           url: https://x.com/DanielIglesiasQ
+        - name: Instagram
+          url: https://www.instagram.com/daniel._iglesias/
         - name: Goodreads
           url: https://www.goodreads.com/user/show/40086181-daniel-iglesias
         - name: Steam
